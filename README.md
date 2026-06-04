@@ -154,7 +154,7 @@ Actively building and contributing to open-source projects. Visit my [GitHub pro
 ```python
 current_endeavors = {
     "immediate": [
-        "Campus placements → Cognizant GenC Track",
+        "Campus placements",
         "Mastering multi-agent agentic systems",
         "Optimizing LLM pipeline performance"
     ],
