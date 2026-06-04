@@ -22,7 +22,7 @@ Currently building:
 - 🔐 **Enterprise solutions** leveraging blockchain & distributed systems
 
 **Quick Facts:**
-- 🎓 B.Tech (AI & ML) @ SRKREC, Bhimavaram | CGPA: 8.85
+- 🎓 B.Tech (AI & ML) @ SRKREC, Bhimavaram | CGPA: 8.71
 - 💼 AI Intern @ Adverk Technologies
 - 🏆 **1st Place** - Hyperledger Blockchain National Hackathon
 - 🎮 Anime enthusiast (subtle Re:Zero easter eggs in my code 🌀)
@@ -130,7 +130,7 @@ Currently building:
 ┌─────────────────────────────────────┐
 │  B.Tech in AI & ML                 │
 │  SRKREC, Bhimavaram                │
-│  CGPA: 8.85/10                     │
+│  CGPA: 8.71/10                     │
 │  Specialization: ML Engineering    │
 └─────────────────────────────────────┘
 ```
