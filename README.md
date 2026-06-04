@@ -108,13 +108,11 @@ Currently building:
 </div>
 
 ---
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charan512&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF)
+Actively building and contributing to open-source projects. Visit my [GitHub profile](https://github.com/Charan512) to see all repositories and contributions.
 
 </div>
 
