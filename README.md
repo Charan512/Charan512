@@ -22,11 +22,10 @@ Currently building:
 - 🔐 **Enterprise solutions** leveraging blockchain & distributed systems
 
 **Quick Facts:**
-- 🎓 B.Tech (AI & ML) @ SRKREC, Bhimavaram | CGPA: 8.71
-- 💼 AI Intern @ Adverk Technologies
-- 🏆 **1st Place** - Hyperledger Blockchain National Hackathon
-- 🎮 Anime enthusiast (subtle Re:Zero easter eggs in my code 🌀)
-- 🎯 Campus placement target: **Cognizant GenC Track**
+- 🎓 B.Tech (AI & ML) @ SRKREC, Bhimavaram | CGPA: 8.71 | 2023-27
+- 💼 AI Intern @ Stikbook INC
+- 🏆 **Runner Up** - Smart India Hackathon 2025, Dehradun
+- 🎮 Anime enthusiast
 
 ---
 
